@@ -1,0 +1,46 @@
+ORF,gen_name,description_ORF,Ids,Descripciones
+tb527,ccsA,cytochrome c-type biogenesis protein,"[1,2,6,1]",aerobic
+tb529,ccsB,cytochrome c-type biogenesis protein,"[1,2,6,1]",aerobic
+tb1451,ctaB,cytochrome c oxidase assembly factor,"[1,2,6,1]",aerobic
+tb2200,ctaC,cytochrome c oxidase chain II,"[1,2,6,1]",aerobic
+tb3043,ctaD,cytochrome c oxidase polypeptide I,"[1,2,6,1]",aerobic
+tb2193,ctaE,cytochrome c oxidase polypeptide III,"[1,2,6,1]",aerobic
+tb1542,glbN,"hemoglobin-like, oxygen carrier","[1,2,6,1]",aerobic
+tb2470,glbO,"hemoglobin-like, oxygen carrier","[1,2,6,1]",aerobic
+tb2249,glpD1,glycerol-3-phosphate dehydrogenase,"[1,2,6,1]",aerobic
+tb3302,glpD2,glycerol-3-phosphate dehydrogenase,"[1,2,6,1]",aerobic
+tb694,lldD1,L-lactate dehydrogenase cytochrome ,"[1,2,6,1]",aerobic
+tb1872,lldD2,L-lactate dehydrogenase,"[1,2,6,1]",aerobic
+tb1854,ndh,probable NADH dehydrogenase,"[1,2,6,1]",aerobic
+tb3145,nuoA,NADH dehydrogenase chain A,"[1,2,6,1]",aerobic
+tb3146,nuoB,NADH dehydrogenase chain B,"[1,2,6,1]",aerobic
+tb3147,nuoC,NADH dehydrogenase chain C,"[1,2,6,1]",aerobic
+tb3148,nuoD,NADH dehydrogenase chain D,"[1,2,6,1]",aerobic
+tb3149,nuoE,NADH dehydrogenase chain E,"[1,2,6,1]",aerobic
+tb3150,nuoF,NADH dehydrogenase chain F,"[1,2,6,1]",aerobic
+tb3151,nuoG,NADH dehydrogenase chain G,"[1,2,6,1]",aerobic
+tb3152,nuoH,NADH dehydrogenase chain H,"[1,2,6,1]",aerobic
+tb3153,nuoI,NADH dehydrogenase chain I,"[1,2,6,1]",aerobic
+tb3154,nuoJ,NADH dehydrogenase chain J,"[1,2,6,1]",aerobic
+tb3155,nuoK,NADH dehydrogenase chain K,"[1,2,6,1]",aerobic
+tb3156,nuoL,NADH dehydrogenase chain L,"[1,2,6,1]",aerobic
+tb3157,nuoM,NADH dehydrogenase chain M,"[1,2,6,1]",aerobic
+tb3158,nuoN,NADH dehydrogenase chain N,"[1,2,6,1]",aerobic
+tb2195,qcrA,Rieske iron-sulphur component of ubiQ-cytB reductase,"[1,2,6,1]",aerobic
+tb2196,qcrB,cytochrome b component of ubiQ-cytB reductase,"[1,2,6,1]",aerobic
+tb2194,qcrC,cytochrome b/c component of ubiQ-cytB reductase,"[1,2,6,1]",aerobic
+tb2392,cysH,3-phosphoadenylylsulfate PAPS reductase,"[1,2,6,2]",anaerobic
+tb2899,fdhD,affects formate dehydrogenase-N,"[1,2,6,2]",anaerobic
+tb2900,fdhF,molybdopterin-containing oxidoreductase,"[1,2,6,2]",anaerobic
+tb1552,frdA,fumarate reductase flavoprotein subunit,"[1,2,6,2]",anaerobic
+tb1553,frdB,fumarate reductase iron sulphur protein,"[1,2,6,2]",anaerobic
+tb1554,frdC,fumarate reductase 15kD anchor protein,"[1,2,6,2]",anaerobic
+tb1555,frdD,fumarate reductase 13kD anchor protein,"[1,2,6,2]",anaerobic
+tb1161,narG,nitrate reductase alpha subunit,"[1,2,6,2]",anaerobic
+tb1162,narH,nitrate reductase beta chain,"[1,2,6,2]",anaerobic
+tb1164,narI,nitrate reductase gamma chain,"[1,2,6,2]",anaerobic
+tb1163,narJ,nitrate reductase delta chain,"[1,2,6,2]",anaerobic
+tb1736,narX,fused nitrate reductase,"[1,2,6,2]",anaerobic
+tb2391,nirA,probable nitrite reductase/sulphite reductase,"[1,2,6,2]",anaerobic
+tb252,nirB,nitrite reductase flavoprotein,"[1,2,6,2]",anaerobic
+tb253,nirD,probable nitrite reductase small subunit,"[1,2,6,2]",anaerobic
